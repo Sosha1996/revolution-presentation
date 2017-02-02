@@ -1,4 +1,10 @@
 @font-face {
+  font-family: 'vazir';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vazir'), url(fonts/Vazir.woff) format('woff');
+}
+@font-face {
   font-family: 'Ubuntu';
   font-style: normal;
   font-weight: 400;
